@@ -1,0 +1,2 @@
+# SlackStatusApp
+SlackStatus Desktop App
